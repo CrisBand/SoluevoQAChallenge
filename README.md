@@ -7,4 +7,4 @@
 # |recarga de sucesso|
 
 Critérios de aceite:
-Após o sistema receber a informação a opção de pagamento e o banco de dados validar que o usuário esta em dia com a fatura de sua recarga além de receber a mensagem de sucesso informar o valor da recarga por SMS ao usuário.
+Após o sistema receber a informação a opção de pagamento e o banco de dados validar que o usuário esta em dia com o pagamento de sua fatura, o sistema deve enviar uma mensagem de sucesso informando o valor de recarga por SMS ao usuário.
